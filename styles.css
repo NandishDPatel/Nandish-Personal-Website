@@ -570,7 +570,16 @@
     
 }
 @media screen and (max-width: 500px){
-    .experience .title h4{
+    .intro1 h2{
+        font-size: 25px;
+    }
+    .intro1 h4{
+        font-size: 20px;
+    }
+    .intro1 h6{
+        font-size: 18px;
+    }
+   .experience .title h4{
         font-size: 14px;
     }
     .education .iEdu ul li h4{
