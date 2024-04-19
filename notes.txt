@@ -1,0 +1,33 @@
+1) Put resume download button instead of showing inside the website
+3) Include resume download button on header and footer as well
+4) Back to Top button at the bottom 
+5) Acheivement of HackUTA?
+
+
+
+----------------------------
+sql project : https://github.com/NandishDPatel/ecommerce-platform-SQL
+
+github - figma => https://github.com/NandishDPatel/HCI_Figma_DigiWheels?tab=readme-ov-file
+
+- https://www.figma.com/file/F7DCzEMGs17EA10IySuPza/HCI-Project?node-id=0%3A1
+
+ml-project : https://github.com/NandishDPatel/ML-Heart_Disease_Prediction
+
+btech project - https://ecom-34z.pages.dev/
+
+https://github.com/NandishDPatel/BTechProject
+
+------- Small Projects
+
+
+
+-- in future add graduate projects 
+
+- sql project 
+- geo compensate
+
+----- Non B.tech Projects ----- 
+
+
+
